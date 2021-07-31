@@ -1,0 +1,19 @@
+package ArrayList;
+
+import java.util.ArrayList;
+
+public class ArrayList<E> extends AbstractList<E>
+	implements List<E>, RandomAccess, Cloneable, 
+
+class ArrayList 
+{
+	public static void main(String[] args)
+	{
+		ArrayList<Integer> data = new ArrayList<Integer>();
+		
+		data.add(50);
+		data.add(150);
+		System.out.println("Hi");
+	}
+
+}

@@ -1,0 +1,14 @@
+package ArrayList;
+
+public class ArrayList 
+{
+	public static void main(String[] args)
+	{
+		//ArrayList<Integer> data = new ArrayList<Integer>();
+		
+		//data.add(50);
+		//data.add(150);
+		System.out.println("Hi");
+	}
+
+}
